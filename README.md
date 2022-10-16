@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Frontend Mentor | Huddle landing page with single introductory section]()
+- Live Site URL: [Frontend Mentor | Huddle landing page with single introductory section](https://huddlelandingpage-soln-pa.netlify.app)
 
 ### Built with
 
@@ -37,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Frontend Mentor |Huddle landing page with single introductory section]()
+- Website - [Frontend Mentor |Huddle landing page with single introductory section](https://huddlelandingpage-soln-pa.netlify.app)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
